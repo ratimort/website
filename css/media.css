@@ -1,0 +1,146 @@
+/*==========  Desktop First  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+.head .row .container .col-md-12 {
+  padding: 70px 150px
+}
+.head .row .container .menu ul li {
+  margin: 20.100px 14px;
+}
+}
+
+@media only screen and (max-width: 1190px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 1024px) {
+
+
+}
+@media only screen and (max-width: 996px) {
+.head .row .container .col-md-12 {
+  padding: 100px 0
+}
+.head .row .container .col-md-12 h2 {
+  text-align: center;
+}
+.head {
+  height: 550px;
+}
+.head .row .container .menu ul li {
+  margin: 20.100px 10px;
+}
+}
+
+@media only screen and (max-width: 823px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+.head .row .container .menu {
+  display: none;
+}
+
+.menu-fixed .row .container .menu {
+  display: none;
+}
+.head .row .container .col-md-12 h2 {
+  text-align: center;
+}
+.m-nav {
+  display: block;
+ }
+ .description .row .container .col-md-12 .col-md-4 {
+  padding: 20px 40px;
+ }
+ .description .row .container .col-md-12 h1 {
+  font-size: 25px;
+ }
+ .info-text .row .container .col-md-12 p {
+  padding: 0
+ }
+ .info-text .row .container .col-md-12 .col-md-6 {
+}
+.head .row .container .col-md-12 h1 {
+  font-size: 80px
+}
+.our-team .col-md-4 {
+  float: inherit;
+}
+}
+
+@media only screen and (max-width: 736px) {
+}
+
+@media only screen and (max-width: 600px) {
+.head .row .container .col-md-12 h1 {
+    font-size: 70px;
+    line-height: 80px;
+}
+.info-text .row .container .col-md-12 h2 {
+  font-size: 30px;
+}
+ .info-text .row .container .col-md-12 p {
+  font-size: 15px
+ }
+  .about-description p {
+  padding: 10px 0 50px
+ }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+.head .row .container .col-md-12 h1 {
+    font-size: 40px;
+    line-height: 70px;
+}
+.head .row .container .col-md-12 h2 {
+  font-size: 17px;
+}
+
+.info .row .container .col-md-12 h1 {
+  font-size: 45px;
+  margin: 218px 0;
+  }
+.description .row .container .col-md-12 h1 {
+  margin: 20px 0;
+}
+ .description .row .container .col-md-12 .col-md-4 {
+  padding: 0px 0px;
+ }
+
+
+}
+
+@media only screen and (max-width: 380px) {
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+
+}
+
+/*==========  Mobile First  ==========*/
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+
+ }
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+
+  /**/ }
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+  /**/ }
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+  /**/ }
